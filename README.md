@@ -3,6 +3,7 @@
 Homebrew casks for my apps.
 
 ```sh
+brew trust nivohavi/tap   # newer Homebrew asks you to trust third-party taps once
 brew install --cask nivohavi/tap/primesnap
 ```
 
